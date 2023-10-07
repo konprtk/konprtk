@@ -1,4 +1,4 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)]
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
 <h1 align="center">Hi 👋, I'm Pratik Lokhande</h1>
 <h3 align="center">Passionate Programmer 👨‍💻</h3>
 <img align="right" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="coding">
