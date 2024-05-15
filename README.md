@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/konprtk" target="blank"><img src="https://img.shields.io/twitter/follow/konprtk?logo=twitter&style=for-the-badge" alt="konprtk" /></a> </p>
 
-- 🌱 I’m currently learning **Java Full Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **official.pratik2003@gmail.com**
 
