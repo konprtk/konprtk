@@ -1,25 +1,14 @@
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
-<h1 align="center">Hi 👋, I'm Pratik Lokhande</h1>
-<h3 align="center">Passionate Programmer 👨‍💻</h3>
-<img align="right" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=konprtk&label=Profile%20views&color=0e75b6&style=flat" alt="konprtk" /> </p>
+<h1>Hi 👋, I'm Pratik Lokhande</h1>
 
-<p align="left"> <a href="https://twitter.com/konprtk" target="blank"><img src="https://img.shields.io/twitter/follow/konprtk?logo=twitter&style=for-the-badge" alt="konprtk" /></a> </p>
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=konprtk&theme=react" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konprtk&langs_count=10&theme=react"/>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **DevOps**
+### Reach out to me 👓
+<a href="https://www.linkedin.com/in/pratiklokhande14/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
+<a href="https://github.com/konprtk"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px"></a>
+<a href="https://twitter.com/konprtk"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
+<a href="https://www.instagram.com/konprtk/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="48px" height="48px"></a> 
 
-- 📫 How to reach me **official.pratik2003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/konprtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="konprtk" height="30" width="40" /></a>
-<a href="https://twitter.com/konprtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="konprtk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratiklokhande14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratiklokhande14" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22612014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22612014" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-# Happy Coding!
+![d](https://visitor-badge.laobi.icu/badge?page_id=konprtk)
