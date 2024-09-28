@@ -11,9 +11,9 @@
 <!--
 - 👯 I’m looking to collaborate on **DevOps, Golang, Open Source projects** -->
 
-- 🤝 I’m looking for help with **DevOps, Cloud, node.js, Open Source, Developer Relations**
+- 🤝 I’m looking for help with **DevOps, Cloud, Kubernetes, Docker, Node.js**
 
-- 💬 Ask me about **DevOps, Cloud, node.js**
+- 💬 Ask me about **DevOps, Cloud, JavaScript, Node.js**
 
 - 📫 How to reach me **official.pratik2003@gmail.com**
 
