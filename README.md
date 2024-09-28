@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Lokhande</h1>
 <!-- <h3 align="center">DevOps and Cloud Advocate, with a passion for Open Source</h3> -->
+
+![d](https://visitor-badge.laobi.icu/badge?page_id=konprtk)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konprtk&langs_count=10&theme=react"/>
 <body>
 
@@ -24,10 +26,7 @@ One day, this will not be a comment. 🤞
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pratiklokhande14/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
-<a href="https://github.com/konprtk"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px"></a>
-<a href="https://twitter.com/konprtk"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
-<a href="https://www.instagram.com/konprtk/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="48px" height="48px"></a> 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratiklokhande14)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/konprtk)
 </p>
 
-![d](https://visitor-badge.laobi.icu/badge?page_id=konprtk)
