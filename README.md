@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on [Self](https://github.com/konprtk/)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m learning **DevOps** and exploring **Cloud Technologies.**
 <!--
 - 👯 I’m looking to collaborate on **DevOps, Golang, Open Source projects** -->
 
-- 🤝 I’m looking for help with **DevOps, Cloud, Kubernetes, Docker, Node.js**
+- 🤝 I’m looking for help with **Kubernetes**, **Docker**, **Node.js**, and **Cloud Solutions**.
 
-- 💬 Ask me about **DevOps, Cloud, JavaScript, Node.js**
+- 💬 Ask me about **JavaScript**, **DevOps**, and **Cloud**
 
-- 📫 How to reach me **official.pratik2003@gmail.com**
+- 📫 You can reach me at **official.pratik2003@gmail.com**
 
-- ⚡ Fun fact **Sometimes I am an early bird and sometimes a night owl!**
+- ⚡ Fun fact **I’m a bit of an early bird and a night owl—depends on the day!**
 <!--
 One day, this will not be a comment. 🤞
 <h3 align="left">Languages and Tools:</h3>
