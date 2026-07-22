@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript**, **DevOps**, and **Cloud**
 
-- 📫 You can reach me at **official.pratik2003@gmail.com**
+- 📫 You can reach me at **pratiklokhande.work@gmail.com**
 
 - ⚡ Fun fact: **I can code in my sleep—at least, that’s what my dreams tell me!**
 
